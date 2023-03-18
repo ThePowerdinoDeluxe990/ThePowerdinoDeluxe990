@@ -1,5 +1,5 @@
 ### Hola 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
 
 <!--
 **ThePowerdinoDeluxe990/ThePowerdinoDeluxe990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
