@@ -4,6 +4,7 @@
 
 Hago Java y js/html/css
 
+Antes programaba en c
 <!--
 **ThePowerdinoDeluxe990/ThePowerdinoDeluxe990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
