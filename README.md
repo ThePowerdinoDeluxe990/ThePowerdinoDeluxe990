@@ -2,8 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990&langs_count=12)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
 
 
-##Hago Java y js/html/css
-###Quiero Aprender Node
+Hago Java y js/html/css
+
 <!--
 **ThePowerdinoDeluxe990/ThePowerdinoDeluxe990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
