@@ -2,7 +2,7 @@
 
 [![Top Langs hide=Python](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
 
-Hago Java, c# y js/html/css
+Hago Java, c# y TS/html/css
 
 Antes programaba en c
 <!--
