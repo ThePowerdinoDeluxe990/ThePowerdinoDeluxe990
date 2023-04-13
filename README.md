@@ -1,6 +1,6 @@
 ### Hola 
 
-[![Top Langs hide=HTML] (https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
+[![Top Langs hide=HTML] (https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)]
 
 Hago Javascript /Java y c#
 
