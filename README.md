@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hago Javascript /Java y c#
 
-Antes programaba en c
 <!--
 **ThePowerdinoDeluxe990/ThePowerdinoDeluxe990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
