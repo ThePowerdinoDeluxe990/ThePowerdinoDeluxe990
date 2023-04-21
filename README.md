@@ -4,7 +4,7 @@
 
 [![Top Langs hide=html](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
 
-Hago JS/html/css y Java 
+Hago cosas que pueden funcionar
 
 Antes programaba en c
 <!--
