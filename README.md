@@ -2,7 +2,7 @@
 
 ### Hola 
 
-[![Top Langs hide=css](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
+[![Top Langs hide=css](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990PATH_1)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
 
 Hago cosas que pueden funcionar
 
