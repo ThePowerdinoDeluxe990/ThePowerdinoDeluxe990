@@ -6,11 +6,9 @@
 
 Front-end Svelte.
 
-Hago apps de escritorio usando el framework Wails
+Hago apps de escritorio 
 
-Hago cosas que pueden funcionar
-
-Antes programaba en c
+Programador infuncional
 <!--
 **ThePowerdinoDeluxe990/ThePowerdinoDeluxe990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
