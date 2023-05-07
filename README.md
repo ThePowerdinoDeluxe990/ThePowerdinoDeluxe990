@@ -4,7 +4,8 @@
 
 [![Top Langs hide=CSS](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
 
-Front-end Svelte
+Front-end Svelte.
+
 Hago apps de escritorio usando el framework Wails
 
 Hago cosas que pueden funcionar
