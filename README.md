@@ -6,7 +6,9 @@
 
 
 Hago apps de escritorio/web 
+
 Estoy probando TS
+
 Programador infuncional
 <!--
 **ThePowerdinoDeluxe990/ThePowerdinoDeluxe990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
