@@ -2,7 +2,7 @@
 
 ### Hola 
 
-[![Top Langs hide=CSS](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
 
 
 Hago apps de escritorio/web 
