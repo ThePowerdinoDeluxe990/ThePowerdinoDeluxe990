@@ -5,7 +5,7 @@
 
 Hago apps de escritorio/web 
 
-!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-roAkCq43DNr3woCouPgrd9XSs2YxBm3_7lKEKKbFHB4A1JlETdIE3sjSR1xPBZuTbZk&usqp=CAU?raw=true)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-roAkCq43DNr3woCouPgrd9XSs2YxBm3_7lKEKKbFHB4A1JlETdIE3sjSR1xPBZuTbZk&usqp=CAU?raw=true)
 
 Estoy probando TS
 
