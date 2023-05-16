@@ -2,8 +2,6 @@
 
 ### Hola 
 
-[![Top Langs&langs_count=5](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
-
 
 Hago apps de escritorio/web 
 
