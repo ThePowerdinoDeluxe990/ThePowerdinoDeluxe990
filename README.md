@@ -7,7 +7,7 @@ Hago apps de escritorio/web
 
 ![but](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-roAkCq43DNr3woCouPgrd9XSs2YxBm3_7lKEKKbFHB4A1JlETdIE3sjSR1xPBZuTbZk&usqp=CAU?raw=true)
 
-Estoy probando TS/dart(Flutter)
+Estoy probando TS/Kotlin
 
 Programador infuncional
 <!--
