@@ -5,7 +5,7 @@
 
 Hago apps de escritorio/web
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990&langs_count=8)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
 
 ![but](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-roAkCq43DNr3woCouPgrd9XSs2YxBm3_7lKEKKbFHB4A1JlETdIE3sjSR1xPBZuTbZk&usqp=CAU?raw=true)
 
