@@ -2,8 +2,7 @@
 
 ### Hola 
 
-
-Hago apps de escritorio/web
+Front end momero
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990&hide=html,css)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
 
