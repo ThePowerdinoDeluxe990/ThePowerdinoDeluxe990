@@ -4,7 +4,9 @@
 
 Front end momero
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePowerdinoDeluxe990&hide=html,css)](https://github.com/ThePowerdinoDeluxe990/github-readme-stats)
+-Typescript
+-Angular
+-React
 
 ![but](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-roAkCq43DNr3woCouPgrd9XSs2YxBm3_7lKEKKbFHB4A1JlETdIE3sjSR1xPBZuTbZk&usqp=CAU?raw=true)
 
