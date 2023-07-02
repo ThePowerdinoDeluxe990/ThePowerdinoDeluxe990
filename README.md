@@ -4,10 +4,6 @@
 
 Front end momero
 
-- Typescript
-- Angular
-- React
-
 ![but](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-roAkCq43DNr3woCouPgrd9XSs2YxBm3_7lKEKKbFHB4A1JlETdIE3sjSR1xPBZuTbZk&usqp=CAU?raw=true)
 
 Programador infuncional
