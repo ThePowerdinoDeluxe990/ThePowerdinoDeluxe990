@@ -2,7 +2,7 @@
 
 ### Hola 
 
-![but](https://github.com/ThePowerdinoDeluxe990/ThePowerdinoDeluxe990/blob/main/Mimomobuenoes.jpeg?raw=true)
+![but](https://github.com/ThePowerdinoDeluxe990/ThePowerdinoDeluxe990/blob/main/Mimomobuenoesdefinitivo.jpeg?raw=true)
 
 - #### Aprendiendo Android con Kotlin
 - #### Web frontend
