@@ -5,7 +5,8 @@
 ![but](https://github.com/ThePowerdinoDeluxe990/ThePowerdinoDeluxe990/blob/main/Mimomobuenoesdefinitivo.jpeg?raw=true)
 
 - #### Aprendiendo Android con Kotlin
-- #### Web frontend
+- #### Java
+- #### Un poco de Web frontend
 
 <!--
 **ThePowerdinoDeluxe990/ThePowerdinoDeluxe990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
