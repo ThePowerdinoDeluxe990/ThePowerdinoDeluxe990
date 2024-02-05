@@ -4,8 +4,8 @@
 
 ![but](https://github.com/ThePowerdinoDeluxe990/ThePowerdinoDeluxe990/blob/main/Mimomobuenoesdefinitivo.jpeg?raw=true)
 
-- #### Aprendiendo Android con Kotlin
-- #### Un poco de Web frontend
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 <!--
 **ThePowerdinoDeluxe990/ThePowerdinoDeluxe990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
