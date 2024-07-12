@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,idea,gradle)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,vite,react,astro,tailwind,sass,js,html,css,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,ts,vite,react,astro,tailwind,sass,js,html,css)](https://skillicons.dev)
 
 
 
