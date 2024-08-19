@@ -5,7 +5,7 @@
 * Programador Android nativo, también hago proyectos web frontend.
 
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,neovim,git,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,windows)](https://skillicons.dev)
 
 
 
