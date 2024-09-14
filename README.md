@@ -2,7 +2,7 @@
 
 ![but](https://github.com/ThePowerdinoDeluxe990/ThePowerdinoDeluxe990/blob/main/Mimomobuenoesdefinitivo.jpeg?raw=true)
 ## About Me:
-* Programador Android nativo, también hago proyectos web frontend.
+* Hago apps nativas en Android, de vez en cuando web apps.
 
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,windows)](https://skillicons.dev)
