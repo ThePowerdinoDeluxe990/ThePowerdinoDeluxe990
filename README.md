@@ -5,7 +5,7 @@
 * Hago apps nativas en Android, de vez en cuando web apps.
 
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,nvim,git,windows)](https://skillicons.dev)
 
 
 
